@@ -1,21 +1,21 @@
 {
-  "version": "3.13.1",
+  "version": "3.14.0",
   "published": "2026-11-02",
   "notes": [
-    "3.13.1: aparece en el menú Inicio y en Aplicaciones instaladas, desde donde se puede desinstalar"
+    "3.14.0: ventana «Enviar comentarios» en Ajustes, con los datos personales tapados antes de enviar"
   ],
   "packages": {
     "windows-setup": {
-      "file": "CensorMD-Setup-v3.13.1.exe",
-      "size": 241474415,
-      "sha256": "e78ef2dfea05f70657e8f606dcb04b9d9aa4e02f7bb44414ba74bb81c2a91afe",
-      "signature": "MEUCIHE+ph/OPkZQsjWv/CGh+PA1qT81ZJwar954r1CqWv0KAiEApVoOH0rHYpEZDfxR4NKQZwr6+DDcKR/Gpd2qIlw75o0="
+      "file": "CensorMD-Setup-v3.14.0.exe",
+      "size": 241466263,
+      "sha256": "35f5cf1696403382f2ff3bf29ce2facadb39767afd9bfac2de3509e652b4fbde",
+      "signature": "MEUCICdsu5asW1NoJMFpCUdrvDcBZSCeoCqfgzcJB8Fkjkh7AiEApZqu+W1sCdf/zYjhiMhKgC0fg0y67PQ1rDW86KVwyjs="
     },
     "windows-portable": {
-      "file": "CensorMD-portable-v3.13.1.exe",
-      "size": 89086976,
-      "sha256": "75954a99e93de811727f3e12bd6fd17091d0050ac57d6207bceb50822f8c933a",
-      "signature": "MEYCIQCiT/5A7xO6eha+6xwQdFi17Z6vw1ZM7bGI12ijBcfqDwIhAPzSd9K7p8APwn2ydYCGZj/0fWxTX6E4YBO1q7xxsN2n"
+      "file": "CensorMD-portable-v3.14.0.exe",
+      "size": 89077760,
+      "sha256": "6c992ff625caf5723081001386692d821ba209b298106f131aed54a5f81e0fda",
+      "signature": "MEMCIDI735MlfPGlyLdzdHLO1LwCne3diyirpZm2Zn5xjfzJAh8K6GQwtoYiBSQRSAMhcYbPbpi8qpi5PmvglYVPxhbe"
     }
   }
 }
