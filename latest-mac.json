@@ -1,15 +1,15 @@
 {
-  "version": "2.39.0",
+  "version": "2.39.1",
   "published": "2026-11-02",
   "notes": [
-    "2.39.0: actualizaciones firmadas desde la app"
+    "2.39.1: primera versión que llega por la actualización desde la app, sin cambios en la censura"
   ],
   "packages": {
     "mac": {
-      "file": "CensorMD-2.39.0-macOS13-arm64.zip",
-      "size": 141403977,
-      "sha256": "27ada0fc74af743b1589ffbf7884d41e73c6f7d1775642e7b960176a01029c06",
-      "signature": "MEUCIQCh8nkPjSfzm5PtlDEem4ZzSfPiKUe9N/CLBV3ddKzR9AIgNdvzhcrkh4skgzdCeRCvisfSshhS4bzVLPC7ans7JDI="
+      "file": "CensorMD-2.39.1-macOS13-arm64.zip",
+      "size": 141404125,
+      "sha256": "11565b3f9f99490e75f411126eb86d87a87e31a7b2d4be7e84192d2afd13d8c5",
+      "signature": "MEUCIFTYgw/4m1TbLR9f2QoYu2ynuxTJZPsQCWeVo9fbXbRwAiEA6yUzEfeSLQDtcZdiy/eHrSE7OwnB6h/boTTYwzEa2q8="
     }
   }
 }
