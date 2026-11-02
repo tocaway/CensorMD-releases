@@ -1,0 +1,15 @@
+{
+  "version": "2.39.0",
+  "published": "2026-11-02",
+  "notes": [
+    "2.39.0: actualizaciones firmadas desde la app"
+  ],
+  "packages": {
+    "mac": {
+      "file": "CensorMD-2.39.0-macOS13-arm64.zip",
+      "size": 141403977,
+      "sha256": "27ada0fc74af743b1589ffbf7884d41e73c6f7d1775642e7b960176a01029c06",
+      "signature": "MEUCIQCh8nkPjSfzm5PtlDEem4ZzSfPiKUe9N/CLBV3ddKzR9AIgNdvzhcrkh4skgzdCeRCvisfSshhS4bzVLPC7ans7JDI="
+    }
+  }
+}
