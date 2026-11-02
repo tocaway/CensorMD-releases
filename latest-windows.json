@@ -1,0 +1,21 @@
+{
+  "version": "3.13.0",
+  "published": "2026-11-02",
+  "notes": [
+    "3.13.0: actualizaciones firmadas desde la app (instalada y portable)"
+  ],
+  "packages": {
+    "windows-setup": {
+      "file": "CensorMD-Setup-v3.13.0.exe",
+      "size": 241466223,
+      "sha256": "7e621bf9b41d6d75f7c0e0f9b79b52890a2ba8dac3e402aac1c426fe893d926d",
+      "signature": "MEYCIQCcxDtr9psFrsvuhYZ0Jlgt3on/20luUKis9qw2xeK2lQIhAONGKBfg3+GQG4zm1OwcopK9j89/N4nZVOiD5IpVT6ua"
+    },
+    "windows-portable": {
+      "file": "CensorMD-portable-v3.13.0.exe",
+      "size": 89084928,
+      "sha256": "bc4a6efb6cd3810d3f5853692ed0749b8cb45851783271e9e49d105f8913cbd5",
+      "signature": "MEUCIE5L8n0tYv6bQzu0yHVJ9sD5bY0ZkhExAr2lP5pHI3DoAiEAv2Yyt+CINWtBiAXT9BYzVO+hOrqb7TGys+hkt2Iwgp8="
+    }
+  }
+}
