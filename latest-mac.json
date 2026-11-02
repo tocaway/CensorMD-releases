@@ -1,15 +1,15 @@
 {
-  "version": "2.39.1",
+  "version": "2.40.0",
   "published": "2026-11-02",
   "notes": [
-    "2.39.1: primera versión que llega por la actualización desde la app, sin cambios en la censura"
+    "2.40.0: ventana «Enviar comentarios» en Ajustes, con los datos personales tapados antes de enviar"
   ],
   "packages": {
     "mac": {
-      "file": "CensorMD-2.39.1-macOS13-arm64.zip",
-      "size": 141404125,
-      "sha256": "11565b3f9f99490e75f411126eb86d87a87e31a7b2d4be7e84192d2afd13d8c5",
-      "signature": "MEUCIFTYgw/4m1TbLR9f2QoYu2ynuxTJZPsQCWeVo9fbXbRwAiEA6yUzEfeSLQDtcZdiy/eHrSE7OwnB6h/boTTYwzEa2q8="
+      "file": "CensorMD-2.40.0-macOS13-arm64.zip",
+      "size": 141428326,
+      "sha256": "1f9ad37416c399cc56489ad43b372cd3bd1aae4e6ba3e0c005598827bd63ce39",
+      "signature": "MEUCICJWH3Cx9gzAMPa1sn0d7OJHOcFj50dVL0b8g4gbIomJAiEAmv+1GPEipRGn9prDNZBj2vemD1kN4MMHnbbAXeAM3uw="
     }
   }
 }
