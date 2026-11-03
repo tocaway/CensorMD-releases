@@ -1,21 +1,22 @@
 {
-  "version": "3.14.1",
-  "published": "2026-11-02",
+  "version": "3.14.2",
+  "published": "2026-11-03",
   "notes": [
-    "3.14.1: la actualización ya no falla con «el archivo está en uso» al abrir CensorMD desde el menú Inicio"
+    "3.14.2: detecta la edad, la altura y el peso con etiqueta y los números de bastidor",
+    "3.14.2: cada botón ⓘ de Datos, Técnicas y Nombres manuales muestra su propia ayuda"
   ],
   "packages": {
     "windows-setup": {
-      "file": "CensorMD-Setup-v3.14.1.exe",
-      "size": 241466263,
-      "sha256": "a3f44506b895d08dba114f521ce74f440cf99a4009060d6719c86c2e7e9c45bd",
-      "signature": "MEYCIQDFY1ID/wjt9moP4EJJqvjfU4mbPJD1SwdlRjKQUSjrowIhAJzZOhp8H+7I7dKrN50g6/NCCVJFtV41WiPx86aJ/Fu8"
+      "file": "CensorMD-Setup-v3.14.2.exe",
+      "size": 241478551,
+      "sha256": "4648035db4015320998e1e8738fc0850ecb66f97a869bd703d6743eda365c042",
+      "signature": "MEUCIFOmijnCO+Ez4HBuNaQaTz+V35nrWLQ/bKpfwzmNlfQNAiEA8GGreEmt8ihNqo9TxFdkG72cEH2MA4uf76lrD3vBJ/4="
     },
     "windows-portable": {
-      "file": "CensorMD-portable-v3.14.1.exe",
-      "size": 89078272,
-      "sha256": "060511dc4926de7fbc28a49b6cc710405048bc8ac893aca54d3057f2bab47c07",
-      "signature": "MEUCIQCtzULLA4gb/TeKOf+BxRew15qked5HPbp9RnLGutTOmgIgOvRx8tw2kF3IEEKG9nxZO8hJ38bxCpr+Qe5UCHFnlVc="
+      "file": "CensorMD-portable-v3.14.2.exe",
+      "size": 89090560,
+      "sha256": "2c4c395e6a52ad8fdf77d7b138968a5b06bcdbf40f08cc7ebfcfa7c57298cb85",
+      "signature": "MEUCIQCWAqM2owL6xc+BOuPXfNyF8FLv79VKSlY+5ZiWrY4vRgIgFhqJObZh7Sdwp68sSYlz97CY9JdyRHnutCVmk6v1btk="
     }
   }
 }
