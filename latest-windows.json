@@ -1,22 +1,21 @@
 {
-  "version": "3.14.2",
+  "version": "3.15.0",
   "published": "2026-11-03",
   "notes": [
-    "3.14.2: detecta la edad, la altura y el peso con etiqueta y los números de bastidor",
-    "3.14.2: cada botón ⓘ de Datos, Técnicas y Nombres manuales muestra su propia ayuda"
+    "3.15.0: censura más rápida con el mismo resultado (códigos QR en paralelo y páginas preparadas por adelantado)"
   ],
   "packages": {
     "windows-setup": {
-      "file": "CensorMD-Setup-v3.14.2.exe",
-      "size": 241478551,
-      "sha256": "4648035db4015320998e1e8738fc0850ecb66f97a869bd703d6743eda365c042",
-      "signature": "MEUCIFOmijnCO+Ez4HBuNaQaTz+V35nrWLQ/bKpfwzmNlfQNAiEA8GGreEmt8ihNqo9TxFdkG72cEH2MA4uf76lrD3vBJ/4="
+      "file": "CensorMD-Setup-v3.15.0.exe",
+      "size": 241482647,
+      "sha256": "2e9cbf976d0a53c974c5b6b913436528c043404285d07caba9dc21bdea7232af",
+      "signature": "MEYCIQC+avDmIKWS0ak2oV5uR+CEjfAfAmKUaa+Uex42WS9VSAIhANPdat/CqCsL18P9ff77pkIhT1V0BNyBJXupywY6Ffny"
     },
     "windows-portable": {
-      "file": "CensorMD-portable-v3.14.2.exe",
-      "size": 89090560,
-      "sha256": "2c4c395e6a52ad8fdf77d7b138968a5b06bcdbf40f08cc7ebfcfa7c57298cb85",
-      "signature": "MEUCIQCWAqM2owL6xc+BOuPXfNyF8FLv79VKSlY+5ZiWrY4vRgIgFhqJObZh7Sdwp68sSYlz97CY9JdyRHnutCVmk6v1btk="
+      "file": "CensorMD-portable-v3.15.0.exe",
+      "size": 89095168,
+      "sha256": "54a4bef02cce7b3578b833b4e3a64e12efa5c9dd5bf42428107ea084af320287",
+      "signature": "MEUCIGJU3gF63aIDW0z4Fmqq189aPJ1r/RL/9pjjSS46C039AiEA0+1pY9eExvtyVsRk3zynbeR8hEa1pRUUQeSKOIrs0wo="
     }
   }
 }
