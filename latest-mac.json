@@ -1,15 +1,15 @@
 {
-  "version": "2.41.0",
+  "version": "2.42.0",
   "published": "2026-11-03",
   "notes": [
-    "2.41.0: detecta la edad en frases y el número de bastidor sin etiqueta, igual que Windows"
+    "2.42.0: más rápida con el mismo resultado (búsquedas preparadas una vez, OCR en paralelo, Markdown precompilado y lector de texto listo al abrir)"
   ],
   "packages": {
     "mac": {
-      "file": "CensorMD-2.41.0-macOS13-arm64.zip",
-      "size": 141430439,
-      "sha256": "9e6b4509becb7f0a7d20aabde5198eaff8060411aa209c2774202e647e27fd8a",
-      "signature": "MEUCIByYzPK2bQeomGKqk4rLij4BESF4omCw8m0McGcnQHlZAiEAxNORrDWlH+fS3abBCr0+/yEtnHk9KubsIiN2CEkULw8="
+      "file": "CensorMD-2.42.0-macOS13-arm64.zip",
+      "size": 167022943,
+      "sha256": "271889efdf8409e6cd4514aa5ce47d24729763fbb8ba764799cccdfe98839f98",
+      "signature": "MEQCIFtlVjB94bEG4LaNE+l2slAKQLWNZGQAss/bTCV+j6skAiBL+mQBxg47hkykjDGdtkoiUQ6aEBFNmJiYRyUfbev6PA=="
     }
   }
 }
