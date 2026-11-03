@@ -1,15 +1,15 @@
 {
-  "version": "2.42.0",
+  "version": "2.42.1",
   "published": "2026-11-03",
   "notes": [
-    "2.42.0: más rápida con el mismo resultado (búsquedas preparadas una vez, OCR en paralelo, Markdown precompilado y lector de texto listo al abrir)"
+    "2.42.1: la pestaña Versiones del manual muestra el historial completo"
   ],
   "packages": {
     "mac": {
-      "file": "CensorMD-2.42.0-macOS13-arm64.zip",
-      "size": 167022943,
-      "sha256": "271889efdf8409e6cd4514aa5ce47d24729763fbb8ba764799cccdfe98839f98",
-      "signature": "MEQCIFtlVjB94bEG4LaNE+l2slAKQLWNZGQAss/bTCV+j6skAiBL+mQBxg47hkykjDGdtkoiUQ6aEBFNmJiYRyUfbev6PA=="
+      "file": "CensorMD-2.42.1-macOS13-arm64.zip",
+      "size": 167022623,
+      "sha256": "8b046d95b2f8f1928216b612a0c43f94ad0f8b7f258ffd556103b4baac1b1d9d",
+      "signature": "MEYCIQDcro8srxSC39MITDIdllPhkhIqzxi6PGk3NWqov6f60QIhAOe1uudBM5mghZ8+a8vnEQpdPw+6G+yYojA+JMroBXy8"
     }
   }
 }
