@@ -1,15 +1,15 @@
 {
-  "version": "2.40.0",
-  "published": "2026-11-02",
+  "version": "2.41.0",
+  "published": "2026-11-03",
   "notes": [
-    "2.40.0: ventana «Enviar comentarios» en Ajustes, con los datos personales tapados antes de enviar"
+    "2.41.0: detecta la edad en frases y el número de bastidor sin etiqueta, igual que Windows"
   ],
   "packages": {
     "mac": {
-      "file": "CensorMD-2.40.0-macOS13-arm64.zip",
-      "size": 141428326,
-      "sha256": "1f9ad37416c399cc56489ad43b372cd3bd1aae4e6ba3e0c005598827bd63ce39",
-      "signature": "MEUCICJWH3Cx9gzAMPa1sn0d7OJHOcFj50dVL0b8g4gbIomJAiEAmv+1GPEipRGn9prDNZBj2vemD1kN4MMHnbbAXeAM3uw="
+      "file": "CensorMD-2.41.0-macOS13-arm64.zip",
+      "size": 141430439,
+      "sha256": "9e6b4509becb7f0a7d20aabde5198eaff8060411aa209c2774202e647e27fd8a",
+      "signature": "MEUCIByYzPK2bQeomGKqk4rLij4BESF4omCw8m0McGcnQHlZAiEAxNORrDWlH+fS3abBCr0+/yEtnHk9KubsIiN2CEkULw8="
     }
   }
 }
