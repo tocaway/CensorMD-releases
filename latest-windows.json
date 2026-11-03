@@ -1,21 +1,21 @@
 {
-  "version": "3.15.0",
+  "version": "3.15.1",
   "published": "2026-11-03",
   "notes": [
-    "3.15.0: censura más rápida con el mismo resultado (códigos QR en paralelo y páginas preparadas por adelantado)"
+    "3.15.1: la pestaña Versiones del manual muestra el historial completo"
   ],
   "packages": {
     "windows-setup": {
-      "file": "CensorMD-Setup-v3.15.0.exe",
+      "file": "CensorMD-Setup-v3.15.1.exe",
       "size": 241482647,
-      "sha256": "2e9cbf976d0a53c974c5b6b913436528c043404285d07caba9dc21bdea7232af",
-      "signature": "MEYCIQC+avDmIKWS0ak2oV5uR+CEjfAfAmKUaa+Uex42WS9VSAIhANPdat/CqCsL18P9ff77pkIhT1V0BNyBJXupywY6Ffny"
+      "sha256": "533579e002d59a9c0b9f8bd806bf5bfba972990d11d99603adb80a669a0faa29",
+      "signature": "MEQCIBO6LSmwKWj7aI65TWfg2qTiuPuwEicxxvSqb333JKm7AiBKwc+tGggUNXnUMc0peQOyvzTsvbEC8R3sjfNiUToqTg=="
     },
     "windows-portable": {
-      "file": "CensorMD-portable-v3.15.0.exe",
-      "size": 89095168,
-      "sha256": "54a4bef02cce7b3578b833b4e3a64e12efa5c9dd5bf42428107ea084af320287",
-      "signature": "MEUCIGJU3gF63aIDW0z4Fmqq189aPJ1r/RL/9pjjSS46C039AiEA0+1pY9eExvtyVsRk3zynbeR8hEa1pRUUQeSKOIrs0wo="
+      "file": "CensorMD-portable-v3.15.1.exe",
+      "size": 89095680,
+      "sha256": "62171aebaebf15dd2a84d0c8666d1a0d6fbfcc22eae1487db524ccb1fbb3f64d",
+      "signature": "MEYCIQCXC8weupIKoURGdbEfY8uRTyB0Hr2EW/v0oHEl+rsC/wIhAOZA0SLhn6keWn7eGzfsbNU8gvQEP2W4CK64zjd01npY"
     }
   }
 }
