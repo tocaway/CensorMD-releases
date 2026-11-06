@@ -1,15 +1,15 @@
 {
-  "version": "2.43.0",
+  "version": "2.43.1",
   "published": "2026-11-06",
   "notes": [
-    "2.43.0: potencia de procesamiento en Ajustes (Bajo, Medio, Alto)"
+    "2.43.1: al cambiar de nivel de potencia los botones ya no se mueven"
   ],
   "packages": {
     "mac": {
-      "file": "CensorMD-2.43.0-macOS13-arm64.zip",
-      "size": 167027907,
-      "sha256": "bb11d615ce3146d1f0df6b0cb12eba537116a39efcc87f10d2d9a26ad2c771f1",
-      "signature": "MEYCIQDRNcjCgKjNyl1n/fVECXv30np2Rr6Wc3ErtpMr+h4KXQIhAJE4FkaUIHewGJZfb/YGEi9Jwpvg5+KQDeeLQEy6dpIP"
+      "file": "CensorMD-2.43.1-macOS13-arm64.zip",
+      "size": 167028188,
+      "sha256": "6ec44b78c63534435c99760234c993bb58b93de3d44f7cb9671cf24167215c24",
+      "signature": "MEUCIExwrH1VfLvysvs2HCv5ybmB/3+KkPFHc0BCE9QamvVcAiEA8twZJBoCsCfsRMeU6aeJ0zfKnpoOtEH4fVAZFsxsY/k="
     }
   }
 }
