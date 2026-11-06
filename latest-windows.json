@@ -1,21 +1,21 @@
 {
-  "version": "3.16.2",
+  "version": "3.17.0",
   "published": "2026-11-06",
   "notes": [
-    "3.16.2: botones de Nombres manuales centrados en su tarjeta"
+    "3.17.0: la portable puede abrirse sola al iniciar sesión en Windows"
   ],
   "packages": {
     "windows-setup": {
-      "file": "CensorMD-Setup-v3.16.2.exe",
+      "file": "CensorMD-Setup-v3.17.0.exe",
       "size": 241482647,
-      "sha256": "dfa8a8ed926c0d44db68a6b8021f0b577477d8c0cd4239ab0acde71f1928a6d6",
-      "signature": "MEUCIQDNoZ8wjGIc6MKISB+A/Fzl0xYJPpTvzWlVnCmr9v5CJAIgf5AoR+hWaD0zwg9cfYOoezzJNSKja8KQS2MRaJTiaJ8="
+      "sha256": "e7f0791953a88a93f269c9a1f07ea689cff4266e4a8ff17a7b5207aa542c1bea",
+      "signature": "MEUCIQCLuM9suI1DXjDdRNHQ6+M/VtVbE+Xng0I9vXl4QTAbpgIgWDEIN+dFl1D2n9yJvs/6s5rFiaDExILliwNaReIsyfE="
     },
     "windows-portable": {
-      "file": "CensorMD-portable-v3.16.2.exe",
-      "size": 89095168,
-      "sha256": "ec5a5fcd8cdbaa15dfe58b8e472fc98c7696c98eb74be08f3b7c86b7333faa13",
-      "signature": "MEQCIHOJfv5n9nQXnW/Pb1JAvTamanZYwCl3JCKfF3SWmkMoAiBHuX1L3QaUHdysNC+tJkb45a4Iu6m8oF8MoyXAiTW2tg=="
+      "file": "CensorMD-portable-v3.17.0.exe",
+      "size": 89091584,
+      "sha256": "990e72d2ed075c20bd27baf53c729d383bb253149661f2f0d924241ae91dd34b",
+      "signature": "MEQCIG2O1wIijuDOh+uKFSAO8zE+NDvVFoWbkzrfL0lfqXqVAiADOvkiLBHR8fhBR/pUDISMYTEWg7SKayFYUOff9e2awQ=="
     }
   }
 }
