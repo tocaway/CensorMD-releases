@@ -1,15 +1,15 @@
 {
-  "version": "2.43.1",
+  "version": "2.43.2",
   "published": "2026-11-06",
   "notes": [
-    "2.43.1: al cambiar de nivel de potencia los botones ya no se mueven"
+    "2.43.2: tarjetas igualadas en altura, botones y textos centrados"
   ],
   "packages": {
     "mac": {
-      "file": "CensorMD-2.43.1-macOS13-arm64.zip",
-      "size": 167028188,
-      "sha256": "6ec44b78c63534435c99760234c993bb58b93de3d44f7cb9671cf24167215c24",
-      "signature": "MEUCIExwrH1VfLvysvs2HCv5ybmB/3+KkPFHc0BCE9QamvVcAiEA8twZJBoCsCfsRMeU6aeJ0zfKnpoOtEH4fVAZFsxsY/k="
+      "file": "CensorMD-2.43.2-macOS13-arm64.zip",
+      "size": 167031146,
+      "sha256": "5079a196fd5c92534890ba654a0a99390158bca1a8528cce96084fc27bcc3676",
+      "signature": "MEMCIC5dP9zbZea3PBASiO02YFu4J3Y8FVq7/pxNzAHe9zR/Ah9sXm+pihv0dfAIJY8fEg1bvpTZ5B+J8+lRfTSts8eO"
     }
   }
 }
