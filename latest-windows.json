@@ -1,21 +1,21 @@
 {
-  "version": "3.15.1",
-  "published": "2026-11-03",
+  "version": "3.16.0",
+  "published": "2026-11-06",
   "notes": [
-    "3.15.1: la pestaña Versiones del manual muestra el historial completo"
+    "3.16.0: potencia de procesamiento en Ajustes (Bajo, Medio, Alto)"
   ],
   "packages": {
     "windows-setup": {
-      "file": "CensorMD-Setup-v3.15.1.exe",
+      "file": "CensorMD-Setup-v3.16.0.exe",
       "size": 241482647,
-      "sha256": "533579e002d59a9c0b9f8bd806bf5bfba972990d11d99603adb80a669a0faa29",
-      "signature": "MEQCIBO6LSmwKWj7aI65TWfg2qTiuPuwEicxxvSqb333JKm7AiBKwc+tGggUNXnUMc0peQOyvzTsvbEC8R3sjfNiUToqTg=="
+      "sha256": "30e6fc8a6238de0368e4f4da8ab385a8c39c83867d2795d77f4beeda91010ed8",
+      "signature": "MEYCIQCU446weH02Zt1lUF2e/TWMrWu/qZpd9JQQYr7cQwxGugIhAJ3Hs36IReA682F/66BnDuCCw/KfiQkwvsJmpKaT2hVP"
     },
     "windows-portable": {
-      "file": "CensorMD-portable-v3.15.1.exe",
-      "size": 89095680,
-      "sha256": "62171aebaebf15dd2a84d0c8666d1a0d6fbfcc22eae1487db524ccb1fbb3f64d",
-      "signature": "MEYCIQCXC8weupIKoURGdbEfY8uRTyB0Hr2EW/v0oHEl+rsC/wIhAOZA0SLhn6keWn7eGzfsbNU8gvQEP2W4CK64zjd01npY"
+      "file": "CensorMD-portable-v3.16.0.exe",
+      "size": 89095168,
+      "sha256": "4e7acb515eb06072f93c156b1b0f24b0315619d22d222022cd9e3ce8fb5598cb",
+      "signature": "MEYCIQCNs4a/I6/QlnWhDDyVJDYGeC1qI5rGdY18Ps+xahJNNgIhAK8ALSoyAkNFxnDf1AdoNzu3T0YkKIKBrTJ0QvSfPVki"
     }
   }
 }
