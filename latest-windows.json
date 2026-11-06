@@ -1,21 +1,21 @@
 {
-  "version": "3.16.0",
+  "version": "3.16.1",
   "published": "2026-11-06",
   "notes": [
-    "3.16.0: potencia de procesamiento en Ajustes (Bajo, Medio, Alto)"
+    "3.16.1: el texto de Potencia de procesamiento ya no mueve la tarjeta"
   ],
   "packages": {
     "windows-setup": {
-      "file": "CensorMD-Setup-v3.16.0.exe",
+      "file": "CensorMD-Setup-v3.16.1.exe",
       "size": 241482647,
-      "sha256": "30e6fc8a6238de0368e4f4da8ab385a8c39c83867d2795d77f4beeda91010ed8",
-      "signature": "MEYCIQCU446weH02Zt1lUF2e/TWMrWu/qZpd9JQQYr7cQwxGugIhAJ3Hs36IReA682F/66BnDuCCw/KfiQkwvsJmpKaT2hVP"
+      "sha256": "b4d7557d8cb14eaaa7f3660f613d6b7170f8f6d0eb6fbfa564bda861349720c9",
+      "signature": "MEYCIQCzPdumTXTRxde3S5ULWILMU8X/tBPlhMZNoLbmK9x3agIhAKJv/JwWOmjLyl1sUCV4XKargv9RRVZukEStYU47BFHY"
     },
     "windows-portable": {
-      "file": "CensorMD-portable-v3.16.0.exe",
+      "file": "CensorMD-portable-v3.16.1.exe",
       "size": 89095168,
-      "sha256": "4e7acb515eb06072f93c156b1b0f24b0315619d22d222022cd9e3ce8fb5598cb",
-      "signature": "MEYCIQCNs4a/I6/QlnWhDDyVJDYGeC1qI5rGdY18Ps+xahJNNgIhAK8ALSoyAkNFxnDf1AdoNzu3T0YkKIKBrTJ0QvSfPVki"
+      "sha256": "f3639cb41b8623376289dbfc9823d1cb4269ab03f4f361a8033ffe1797224048",
+      "signature": "MEQCIAtsQ4aXldlaG0kZkhwKcHlaHaEhR/NIlT6w9fAZ8ihZAiB4VE88aWyI8Zzre8fMV89G08LtHVrkpIECMkPgkA6gLw=="
     }
   }
 }
