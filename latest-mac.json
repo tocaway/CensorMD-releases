@@ -1,15 +1,15 @@
 {
-  "version": "2.42.1",
-  "published": "2026-11-03",
+  "version": "2.43.0",
+  "published": "2026-11-06",
   "notes": [
-    "2.42.1: la pestaña Versiones del manual muestra el historial completo"
+    "2.43.0: potencia de procesamiento en Ajustes (Bajo, Medio, Alto)"
   ],
   "packages": {
     "mac": {
-      "file": "CensorMD-2.42.1-macOS13-arm64.zip",
-      "size": 167022623,
-      "sha256": "8b046d95b2f8f1928216b612a0c43f94ad0f8b7f258ffd556103b4baac1b1d9d",
-      "signature": "MEYCIQDcro8srxSC39MITDIdllPhkhIqzxi6PGk3NWqov6f60QIhAOe1uudBM5mghZ8+a8vnEQpdPw+6G+yYojA+JMroBXy8"
+      "file": "CensorMD-2.43.0-macOS13-arm64.zip",
+      "size": 167027907,
+      "sha256": "bb11d615ce3146d1f0df6b0cb12eba537116a39efcc87f10d2d9a26ad2c771f1",
+      "signature": "MEYCIQDRNcjCgKjNyl1n/fVECXv30np2Rr6Wc3ErtpMr+h4KXQIhAJE4FkaUIHewGJZfb/YGEi9Jwpvg5+KQDeeLQEy6dpIP"
     }
   }
 }
