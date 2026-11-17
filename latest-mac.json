@@ -1,16 +1,15 @@
 {
-  "version": "2.44.0",
+  "version": "2.44.1",
   "published": "2026-11-17",
   "notes": [
-    "2.44.0: informe sin afirmar lo no probado en Mac",
-    "2.44.0: nivel Ultra en Potencia de procesamiento"
+    "2.44.1: los lotes grandes ya no cierran la aplicación por falta de memoria"
   ],
   "packages": {
     "mac": {
-      "file": "CensorMD-2.44.0-macOS13-arm64.zip",
-      "size": 167032797,
-      "sha256": "d896b54dcaffe0563c33ac3201582d3add3512e50ba1158bbfcb4eb185b1da8d",
-      "signature": "MEQCICgPLlHP0V9yEweRSESpZ4ZLba0B1fBnjlg/5oMOiXwWAiA4bgfHHLYTGAL0+WanFhE+eyy4bJBwP40haEhkRuM2gg=="
+      "file": "CensorMD-2.44.1-macOS13-arm64.zip",
+      "size": 167032463,
+      "sha256": "e93959932da0ebc7f59849ad8bacd01f212eb12f5158506a6c752afd8274ca40",
+      "signature": "MEYCIQClH6/x18Y7N5z5cC63MgN5Qi4OcRekqAJgT7LhbfAw2gIhAOG57gX+lVR1THvqduD4HF1dqgBH6Sa8qji9CoeY3V69"
     }
   }
 }
