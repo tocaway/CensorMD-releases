@@ -1,15 +1,16 @@
 {
-  "version": "2.43.2",
-  "published": "2026-11-06",
+  "version": "2.44.0",
+  "published": "2026-11-17",
   "notes": [
-    "2.43.2: tarjetas igualadas en altura, botones y textos centrados"
+    "2.44.0: informe sin afirmar lo no probado en Mac",
+    "2.44.0: nivel Ultra en Potencia de procesamiento"
   ],
   "packages": {
     "mac": {
-      "file": "CensorMD-2.43.2-macOS13-arm64.zip",
-      "size": 167031146,
-      "sha256": "5079a196fd5c92534890ba654a0a99390158bca1a8528cce96084fc27bcc3676",
-      "signature": "MEMCIC5dP9zbZea3PBASiO02YFu4J3Y8FVq7/pxNzAHe9zR/Ah9sXm+pihv0dfAIJY8fEg1bvpTZ5B+J8+lRfTSts8eO"
+      "file": "CensorMD-2.44.0-macOS13-arm64.zip",
+      "size": 167032797,
+      "sha256": "d896b54dcaffe0563c33ac3201582d3add3512e50ba1158bbfcb4eb185b1da8d",
+      "signature": "MEQCICgPLlHP0V9yEweRSESpZ4ZLba0B1fBnjlg/5oMOiXwWAiA4bgfHHLYTGAL0+WanFhE+eyy4bJBwP40haEhkRuM2gg=="
     }
   }
 }
