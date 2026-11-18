@@ -1,24 +1,22 @@
 {
-  "version": "3.18.0",
+  "version": "3.18.1",
   "published": "2026-11-18",
   "notes": [
-    "3.18.0: cada PDF se guarda al terminarlo y la barra cuenta guardados y pendientes",
-    "3.18.0: cada página se dibuja una vez para códigos y OCR",
-    "3.18.0: nivel Ultra y lotes grandes sin cierres",
-    "3.17.1: la ayuda ⓘ se lee en el tema claro, con las tarjetas de Mac"
+    "3.18.1: versión también en el instalador y el manifiesto",
+    "3.18.1: los lotes grandes ya no se cierran al final"
   ],
   "packages": {
     "windows-setup": {
-      "file": "CensorMD-Setup-v3.18.0.exe",
-      "size": 241486743,
-      "sha256": "9f3a1bedb278c5304ccb66e7db65672965a082af3ca3cf00c68865a40f281b36",
-      "signature": "MEUCIEZeBaMNqrGdcl4hQgetMTo3AeDbACdqLo9Ioj5COD3RAiEAlABVk7SIaAzbZsmeFTBRwkom7pMGGexRCCJuoiMhXAk="
+      "file": "CensorMD-Setup-v3.18.1.exe",
+      "size": 241490839,
+      "sha256": "74c1107d699746976170ac423a2a9d6bb0de2f27f642051197696bdf1be102bb",
+      "signature": "MEQCIF+bNujgoQwTZL38Re/tWUMocooPLOp+abJx9VKsibZJAiAeIibDgv5x89eYZq8y/pbSESlcClS8u3qNpRdF/RI2tg=="
     },
     "windows-portable": {
-      "file": "CensorMD-portable-v3.18.0.exe",
-      "size": 89096192,
-      "sha256": "d8853ac5bda3cff8cf08573425bc97065ed24fc5b9d0818c97c7cb8e0f2cfafe",
-      "signature": "MEQCIFLnxuqNDu/SBXLanA28+71K51hpCrUJUHPpCBO+J6VOAiBqAXg+/k4vrDuDr/L64vJziJwd4DDle2Ov9RGtCu7LFw=="
+      "file": "CensorMD-portable-v3.18.1.exe",
+      "size": 89100288,
+      "sha256": "0df9cfb608af5c43448c0548d64e45b81e44ca7301d80a480e84380dde80d45d",
+      "signature": "MEUCIQDjOvvK/GWGXlzdNLnYzc6EZW226r265U9ah0nnp5j6kwIgVB04leGgiZxk/lWG2E79OIRojM9WIiKjpsEBLHUc9e4="
     }
   }
 }
