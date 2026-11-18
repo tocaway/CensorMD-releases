@@ -1,15 +1,15 @@
 {
-  "version": "2.45.0",
-  "published": "2026-11-17",
+  "version": "2.45.1",
+  "published": "2026-11-18",
   "notes": [
-    "2.45.0: cada PDF se guarda al terminarlo y la barra cuenta guardados y pendientes"
+    "2.45.1: los lotes grandes ya no se cierran al final"
   ],
   "packages": {
     "mac": {
-      "file": "CensorMD-2.45.0-macOS13-arm64.zip",
-      "size": 167045420,
-      "sha256": "8583b4c09b09f5b39d359e64ad53268c3154c22649f65594d2f00354e84b59d9",
-      "signature": "MEUCIDbKKZvm46hwohcaaDwqO3H+V1HnuowT9ZaIWrTnOoacAiEAlrjn/5e1pfXcW/DHjli3/0RsHZEWQJoXY56BQTIiNtQ="
+      "file": "CensorMD-2.45.1-macOS13-arm64.zip",
+      "size": 167051761,
+      "sha256": "70da8ebabbed57d0d93991903892062a3fbb5f54bfb42ef5009d7de302db4af9",
+      "signature": "MEUCICEptgsITiSki2noVmaD163JkcZOx5UVNIgoA+GVOGu3AiEA9gLyuA5ZeK8OgMxNt7l8inpPeAFPIs6EwA3VPWFVxqE="
     }
   }
 }
