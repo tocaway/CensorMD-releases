@@ -1,15 +1,15 @@
 {
-  "version": "2.46.0",
+  "version": "2.47.0",
   "published": "2026-11-18",
   "notes": [
-    "2.46.0: censurar por lotes del 25 %"
+    "2.47.0: versión junto al nombre y listas de archivos más altas"
   ],
   "packages": {
     "mac": {
-      "file": "CensorMD-2.46.0-macOS13-arm64.zip",
-      "size": 167062844,
-      "sha256": "9c0eae4b20768ed8b38000e507a135f4fcb90210fc8b4d746cf38757199228b9",
-      "signature": "MEUCIHac7sdR+UZxrbVrV6bmI65ntt8iC1LArkDZIdtcdEATAiEAyqHXx91xN5IHxFcUaEfiyEsPcjOOmlhB0ASEfW0QBQE="
+      "file": "CensorMD-2.47.0-macOS13-arm64.zip",
+      "size": 167064514,
+      "sha256": "56ae8cb1ca510bf5ef2b9b4bae3bc201e0fea76a56ae48edb5e4cbb6c0c045ba",
+      "signature": "MEUCIGiIAH7OMyRKLDvOtj4FFgwVufhrD6nI6UT2XUETHPFMAiEAuj2tEVojtfv5SYbe8r9hOWpz4Ci2mpbCuukuHh2GaOg="
     }
   }
 }
