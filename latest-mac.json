@@ -1,15 +1,15 @@
 {
-  "version": "2.47.0",
+  "version": "2.48.0",
   "published": "2026-11-18",
   "notes": [
-    "2.47.0: versión junto al nombre y listas de archivos más altas"
+    "2.48.0: sin letrero «100 % local», lista más alta y lotes desmarcados"
   ],
   "packages": {
     "mac": {
-      "file": "CensorMD-2.47.0-macOS13-arm64.zip",
-      "size": 167064514,
-      "sha256": "56ae8cb1ca510bf5ef2b9b4bae3bc201e0fea76a56ae48edb5e4cbb6c0c045ba",
-      "signature": "MEUCIGiIAH7OMyRKLDvOtj4FFgwVufhrD6nI6UT2XUETHPFMAiEAuj2tEVojtfv5SYbe8r9hOWpz4Ci2mpbCuukuHh2GaOg="
+      "file": "CensorMD-2.48.0-macOS13-arm64.zip",
+      "size": 167064344,
+      "sha256": "df6ace94c5f91917a26f4994c184a5a2b081ea6b0ef0fd5480b82c95f6205dc9",
+      "signature": "MEQCIH3jDRMvscqAUky2yc152//AgS+/FuGg8pgnW4gAUDpKAiAM+hSxhxY6FSsZZagS7JQFRuPKTOsKkMR46mL9ZWwYhQ=="
     }
   }
 }
