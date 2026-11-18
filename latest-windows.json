@@ -1,22 +1,21 @@
 {
-  "version": "3.21.1",
+  "version": "3.22.0",
   "published": "2026-11-18",
   "notes": [
-    "3.21.1: la ventana maximizada ocupa solo la zona útil de la pantalla",
-    "3.21.1: la ventana maximizada ya no corta los botones de abajo"
+    "3.22.0: la ventana se adapta a cualquier pantalla"
   ],
   "packages": {
     "windows-setup": {
-      "file": "CensorMD-Setup-v3.21.1.exe",
-      "size": 241490839,
-      "sha256": "fab1edbeaee7faed6f830c9917860a408f238667d78c417fc20d4dc861f5f9b2",
-      "signature": "MEUCIQCN9YWZttssvHA4dA7hlfxNMJMahQTtjIusD31Ht2EyeQIgWMdi0Z4v5nmqZP+glCULRCpzQvFr767ohHRE/QPYbyk="
+      "file": "CensorMD-Setup-v3.22.0.exe",
+      "size": 241494935,
+      "sha256": "01b02e2928845ae06702541a7c638c3381abf4037e29c01a8d9362030bca8088",
+      "signature": "MEUCIDdkYoZlecEUSLbMlaZdmcO2aG8WwlgCe8AfkkFI78Y1AiEAmorzObSKsashI/JA+TCiZxyaeYQ4jiMn8/B7QqjncEY="
     },
     "windows-portable": {
-      "file": "CensorMD-portable-v3.21.1.exe",
-      "size": 89101824,
-      "sha256": "ebcfb5cc7712278588cd7af035d43e246c8aa19435603c3f9b47d691c6a6f0e8",
-      "signature": "MEQCIHAcSvNrVpLkmDh9x9FlWIpEcmP5sMa24inpByw9vX13AiBPEoduzW5BHWFOJQ3SHDU2E6rysoEou4gePsloiwIhTg=="
+      "file": "CensorMD-portable-v3.22.0.exe",
+      "size": 89104896,
+      "sha256": "435ce63a4726769d275eab9f4f779c21f787dc0c7166f8fbde81ebd071fd22af",
+      "signature": "MEUCIFYu7jIw/aIuym+5jWo+lzfJtnIqOVuXMO/x2TCHgrZaAiEAjz7uChUweqxjuvvjH6oC4Tv5QuAWQQWej2rp0fdM+h4="
     }
   }
 }
