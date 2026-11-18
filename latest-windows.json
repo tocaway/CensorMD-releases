@@ -1,22 +1,22 @@
 {
-  "version": "3.19.0",
+  "version": "3.20.0",
   "published": "2026-11-18",
   "notes": [
-    "3.19.0: PDF y Markdown en una línea para que el formulario siga cabiendo",
-    "3.19.0: censurar por lotes del 25 %"
+    "3.20.0: la lista de archivos no provoca un bucle de recolocación",
+    "3.20.0: versión junto al nombre y listas de archivos más altas"
   ],
   "packages": {
     "windows-setup": {
-      "file": "CensorMD-Setup-v3.19.0.exe",
+      "file": "CensorMD-Setup-v3.20.0.exe",
       "size": 241490839,
-      "sha256": "0e933e859b7b79303af0a4eb972d2272a52efb59ac8a7ecc0945d00bb97f75d7",
-      "signature": "MEQCIEg066ulp2GvQfhUCjcFq+nuJoPzZiKPXZv7Z0XT2iKeAiAfDklAfDS7EQz99+eJKz027x4ETA24CXb1FSC5pBe8Mw=="
+      "sha256": "2cc6a0a5a129a8a8db63dcf385d1720b1e7fe021ebf603a6b991a054e1222f45",
+      "signature": "MEYCIQDXzy2pBhvhS/uNn4lud9dLJN+4EyuFfIfSRimUvDUqbgIhAOiAFrP48GawGxw3I9awnVkoPIjWO4RMz50YPika2nSd"
     },
     "windows-portable": {
-      "file": "CensorMD-portable-v3.19.0.exe",
-      "size": 89100288,
-      "sha256": "cbdc2bdaf08a36f0c6db55e4c841dec3ca600df0a2104ae5cadfdf29feb4ad99",
-      "signature": "MEUCIElV0Atfgp/SkOmeFIE9NiTjWOTN0f3FSey+m+sjuHi2AiEAtQ9bVpDtKqtuCk/VKaVPpxZZJ/CHTfwP8PcxYydhEDw="
+      "file": "CensorMD-portable-v3.20.0.exe",
+      "size": 89100800,
+      "sha256": "b350d885e949f287cab6dd6b9dab5fa53fd337a344d5f8f047f22e6acf5dc078",
+      "signature": "MEQCIH1b8NDrwPDASEC5bswEwBeoo9jaPnJ8BFdDvB4gvxEhAiA4tWJiKCYQyuM/hNPoYipTxo4A/I7PFprEQnEKtn6nMA=="
     }
   }
 }
