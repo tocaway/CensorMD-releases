@@ -1,15 +1,15 @@
 {
-  "version": "2.45.1",
+  "version": "2.46.0",
   "published": "2026-11-18",
   "notes": [
-    "2.45.1: los lotes grandes ya no se cierran al final"
+    "2.46.0: censurar por lotes del 25 %"
   ],
   "packages": {
     "mac": {
-      "file": "CensorMD-2.45.1-macOS13-arm64.zip",
-      "size": 167051761,
-      "sha256": "70da8ebabbed57d0d93991903892062a3fbb5f54bfb42ef5009d7de302db4af9",
-      "signature": "MEUCICEptgsITiSki2noVmaD163JkcZOx5UVNIgoA+GVOGu3AiEA9gLyuA5ZeK8OgMxNt7l8inpPeAFPIs6EwA3VPWFVxqE="
+      "file": "CensorMD-2.46.0-macOS13-arm64.zip",
+      "size": 167062844,
+      "sha256": "9c0eae4b20768ed8b38000e507a135f4fcb90210fc8b4d746cf38757199228b9",
+      "signature": "MEUCIHac7sdR+UZxrbVrV6bmI65ntt8iC1LArkDZIdtcdEATAiEAyqHXx91xN5IHxFcUaEfiyEsPcjOOmlhB0ASEfW0QBQE="
     }
   }
 }
