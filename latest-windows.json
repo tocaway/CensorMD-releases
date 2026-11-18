@@ -1,22 +1,21 @@
 {
-  "version": "3.20.0",
+  "version": "3.21.0",
   "published": "2026-11-18",
   "notes": [
-    "3.20.0: la lista de archivos no provoca un bucle de recolocación",
-    "3.20.0: versión junto al nombre y listas de archivos más altas"
+    "3.21.0: sin letrero «100 % local», lista más alta y lotes desmarcados"
   ],
   "packages": {
     "windows-setup": {
-      "file": "CensorMD-Setup-v3.20.0.exe",
+      "file": "CensorMD-Setup-v3.21.0.exe",
       "size": 241490839,
-      "sha256": "2cc6a0a5a129a8a8db63dcf385d1720b1e7fe021ebf603a6b991a054e1222f45",
-      "signature": "MEYCIQDXzy2pBhvhS/uNn4lud9dLJN+4EyuFfIfSRimUvDUqbgIhAOiAFrP48GawGxw3I9awnVkoPIjWO4RMz50YPika2nSd"
+      "sha256": "87588a29395e06102b5528bbcd0ce6c8c196856385a2f362ba5a2aa60328a232",
+      "signature": "MEQCIGhQw+wUEw4cmeZRsKG9LYXm1rAspiLvoex9eOqU5C5PAiASOIKQVBYvnmzne7DFWiO390VTgEFwip5CFB3ySEaL9w=="
     },
     "windows-portable": {
-      "file": "CensorMD-portable-v3.20.0.exe",
-      "size": 89100800,
-      "sha256": "b350d885e949f287cab6dd6b9dab5fa53fd337a344d5f8f047f22e6acf5dc078",
-      "signature": "MEQCIH1b8NDrwPDASEC5bswEwBeoo9jaPnJ8BFdDvB4gvxEhAiA4tWJiKCYQyuM/hNPoYipTxo4A/I7PFprEQnEKtn6nMA=="
+      "file": "CensorMD-portable-v3.21.0.exe",
+      "size": 89100288,
+      "sha256": "2ec732eec7a429f3160b7368ee91dd43351e00ecd3a160a2f727a8230f53aa15",
+      "signature": "MEYCIQD52HxZJzvzK99fgc9d8AMx5UAyWdAq7nsu0X/UIEExvwIhALZRbs4AHVT3XrCbIgIjeyB3hDjMNchxaGAJL6edxODl"
     }
   }
 }
