@@ -1,22 +1,22 @@
 {
-  "version": "3.18.1",
+  "version": "3.19.0",
   "published": "2026-11-18",
   "notes": [
-    "3.18.1: versión también en el instalador y el manifiesto",
-    "3.18.1: los lotes grandes ya no se cierran al final"
+    "3.19.0: PDF y Markdown en una línea para que el formulario siga cabiendo",
+    "3.19.0: censurar por lotes del 25 %"
   ],
   "packages": {
     "windows-setup": {
-      "file": "CensorMD-Setup-v3.18.1.exe",
+      "file": "CensorMD-Setup-v3.19.0.exe",
       "size": 241490839,
-      "sha256": "74c1107d699746976170ac423a2a9d6bb0de2f27f642051197696bdf1be102bb",
-      "signature": "MEQCIF+bNujgoQwTZL38Re/tWUMocooPLOp+abJx9VKsibZJAiAeIibDgv5x89eYZq8y/pbSESlcClS8u3qNpRdF/RI2tg=="
+      "sha256": "0e933e859b7b79303af0a4eb972d2272a52efb59ac8a7ecc0945d00bb97f75d7",
+      "signature": "MEQCIEg066ulp2GvQfhUCjcFq+nuJoPzZiKPXZv7Z0XT2iKeAiAfDklAfDS7EQz99+eJKz027x4ETA24CXb1FSC5pBe8Mw=="
     },
     "windows-portable": {
-      "file": "CensorMD-portable-v3.18.1.exe",
+      "file": "CensorMD-portable-v3.19.0.exe",
       "size": 89100288,
-      "sha256": "0df9cfb608af5c43448c0548d64e45b81e44ca7301d80a480e84380dde80d45d",
-      "signature": "MEUCIQDjOvvK/GWGXlzdNLnYzc6EZW226r265U9ah0nnp5j6kwIgVB04leGgiZxk/lWG2E79OIRojM9WIiKjpsEBLHUc9e4="
+      "sha256": "cbdc2bdaf08a36f0c6db55e4c841dec3ca600df0a2104ae5cadfdf29feb4ad99",
+      "signature": "MEUCIElV0Atfgp/SkOmeFIE9NiTjWOTN0f3FSey+m+sjuHi2AiEAtQ9bVpDtKqtuCk/VKaVPpxZZJ/CHTfwP8PcxYydhEDw="
     }
   }
 }
