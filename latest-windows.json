@@ -1,21 +1,21 @@
 {
-  "version": "3.22.0",
-  "published": "2026-11-18",
+  "version": "3.23.0",
+  "published": "2026-11-20",
   "notes": [
-    "3.22.0: la ventana se adapta a cualquier pantalla"
+    "3.23.0: la ventana cabe en las pantallas más usadas"
   ],
   "packages": {
     "windows-setup": {
-      "file": "CensorMD-Setup-v3.22.0.exe",
-      "size": 241494935,
-      "sha256": "01b02e2928845ae06702541a7c638c3381abf4037e29c01a8d9362030bca8088",
-      "signature": "MEUCIDdkYoZlecEUSLbMlaZdmcO2aG8WwlgCe8AfkkFI78Y1AiEAmorzObSKsashI/JA+TCiZxyaeYQ4jiMn8/B7QqjncEY="
+      "file": "CensorMD-Setup-v3.23.0.exe",
+      "size": 238894396,
+      "sha256": "4267b6e5cff2c667ee4ac807d04162d81cfea42d68f7c33f0acee3a1a21608c5",
+      "signature": "MEYCIQDepRJODkzYah9DQh9ZUpjtvPlPmOA8xB52DTWVRo3SxwIhAOUAGDGRxGtS5GKjRu7vPfsRMYHIw9kSARS5XBkrcH6A"
     },
     "windows-portable": {
-      "file": "CensorMD-portable-v3.22.0.exe",
-      "size": 89104896,
-      "sha256": "435ce63a4726769d275eab9f4f779c21f787dc0c7166f8fbde81ebd071fd22af",
-      "signature": "MEUCIFYu7jIw/aIuym+5jWo+lzfJtnIqOVuXMO/x2TCHgrZaAiEAjz7uChUweqxjuvvjH6oC4Tv5QuAWQQWej2rp0fdM+h4="
+      "file": "CensorMD-portable-v3.23.0.exe",
+      "size": 86591488,
+      "sha256": "d19e102cde11cb7539f4ea40a8aea31525adc3ce42dce58b8c690838d6519088",
+      "signature": "MEUCIQC6z82pIokun5ZXqETwdyKe9Htin3VoENUWXQJgxenIMwIgRlTUtOO1KlG294Agtf5vtSarfZDJKpjI/eGXd7xRHtE="
     }
   }
 }
