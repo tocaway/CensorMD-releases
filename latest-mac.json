@@ -1,15 +1,15 @@
 {
-  "version": "2.48.0",
-  "published": "2026-11-18",
+  "version": "2.49.0",
+  "published": "2026-11-19",
   "notes": [
-    "2.48.0: sin letrero «100 % local», lista más alta y lotes desmarcados"
+    "2.49.0: la ventana cabe en las pantallas más usadas"
   ],
   "packages": {
     "mac": {
-      "file": "CensorMD-2.48.0-macOS13-arm64.zip",
-      "size": 167064344,
-      "sha256": "df6ace94c5f91917a26f4994c184a5a2b081ea6b0ef0fd5480b82c95f6205dc9",
-      "signature": "MEQCIH3jDRMvscqAUky2yc152//AgS+/FuGg8pgnW4gAUDpKAiAM+hSxhxY6FSsZZagS7JQFRuPKTOsKkMR46mL9ZWwYhQ=="
+      "file": "CensorMD-2.49.0-macOS13-arm64.zip",
+      "size": 167073830,
+      "sha256": "b9dd5e364fb577ee3fdb7e382071e04c60a7588ea5f63d1f45ae1ba6a5131f16",
+      "signature": "MEUCIDW4vDsl8c7cdz6DlNScOwcamc0XLyw6hVQKcE+T6M6nAiEAmI079wSnYiLErwMhTZm+V+OxpNd7FjY6FL3rQ8w58Bw="
     }
   }
 }
