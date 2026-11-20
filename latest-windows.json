@@ -1,21 +1,21 @@
 {
-  "version": "3.23.0",
+  "version": "4.0.0",
   "published": "2026-11-20",
   "notes": [
-    "3.23.0: la ventana cabe en las pantallas más usadas"
+    "4.0.0: pestaña «Convertir a HTML» y censura de Word, Excel, PowerPoint y otros documentos"
   ],
   "packages": {
     "windows-setup": {
-      "file": "CensorMD-Setup-v3.23.0.exe",
-      "size": 238894396,
-      "sha256": "4267b6e5cff2c667ee4ac807d04162d81cfea42d68f7c33f0acee3a1a21608c5",
-      "signature": "MEYCIQDepRJODkzYah9DQh9ZUpjtvPlPmOA8xB52DTWVRo3SxwIhAOUAGDGRxGtS5GKjRu7vPfsRMYHIw9kSARS5XBkrcH6A"
+      "file": "CensorMD-Setup-v4.0.0.exe",
+      "size": 239390004,
+      "sha256": "b269b95291aa1dc613f935fc4757c35b379a81a2b8b1d7c0355ebf873a9972c3",
+      "signature": "MEQCIGFuTqPEexYUxBKLW1VdLus9NjOW4legXy8wwnlZ5fPnAiBhAYKQCqdAR1jX/YRaRWGj8PK6XfT8a63CEOdGFYBHYw=="
     },
     "windows-portable": {
-      "file": "CensorMD-portable-v3.23.0.exe",
-      "size": 86591488,
-      "sha256": "d19e102cde11cb7539f4ea40a8aea31525adc3ce42dce58b8c690838d6519088",
-      "signature": "MEUCIQC6z82pIokun5ZXqETwdyKe9Htin3VoENUWXQJgxenIMwIgRlTUtOO1KlG294Agtf5vtSarfZDJKpjI/eGXd7xRHtE="
+      "file": "CensorMD-portable-v4.0.0.exe",
+      "size": 87089152,
+      "sha256": "9e10fc4562a6ab1b6b4762e8f5cb14b9b55d44ce1c7d05ff9af70bfff0620544",
+      "signature": "MEUCIQDv8IqVvrp/a8ijNvWv7Ck+u1bbjYumSR2y3qS2Y0EBKAIgec0jvaQP/Zf26nYIcNfoWTIUfkTnvntCdVXZciVz9DU="
     }
   }
 }
