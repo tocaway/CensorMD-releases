@@ -1,15 +1,15 @@
 {
-  "version": "2.49.1",
+  "version": "3.0.0",
   "published": "2026-11-20",
   "notes": [
-    "2.49.1: vuelven a verse los textos de «Opciones adicionales»"
+    "3.0.0: pestaña «Convertir a HTML» y censura de Word, Excel, PowerPoint y otros documentos"
   ],
   "packages": {
     "mac": {
-      "file": "CensorMD-2.49.1-macOS13-arm64.zip",
-      "size": 167074491,
-      "sha256": "ff1c9bd556a0fd2221a58be74a36e93b85f43959a1c886881d50186f7d09acd7",
-      "signature": "MEYCIQCS5oKPStzVClkYnSkPUHAAdTQ07hZycywFa/E/l0hQUwIhAIMWu0/+6ddn1TFJ70TJlBtegD+BaSJN1xTT8HreTWOi"
+      "file": "CensorMD-3.0.0-macOS13-arm64.zip",
+      "size": 167564155,
+      "sha256": "0237c9aeff9401eb9f55eece8d2afe7a8a9db4f4988a7fe1e9b27b415a5498fe",
+      "signature": "MEQCIEvz27zMnJngsw8ZodH8rQuyOnFeWPft5Nlgis/KYuJTAiA5s6GQsWxLbelaAYyKpi2mHRcdVqNNUiDX09MJ3cut1g=="
     }
   }
 }
