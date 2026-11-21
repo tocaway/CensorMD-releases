@@ -1,23 +1,21 @@
 {
-  "version": "4.0.1",
+  "version": "4.1.0",
   "published": "2026-11-21",
   "notes": [
-    "4.0.1: informes y resumen de lo aplicado de la auditoría",
-    "4.0.1: la prueba de revisión comprueba la limpieza de temporales propios y respeta las ajenas",
-    "4.0.1: correcciones de seguridad y fiabilidad de la auditoría"
+    "4.1.0: «Censurar Documentos», formatos admitidos en la lista y reparto de la fila de abajo"
   ],
   "packages": {
     "windows-setup": {
-      "file": "CensorMD-Setup-v4.0.1.exe",
-      "size": 239525172,
-      "sha256": "30d32a12ca2a9c3435834327b3e72a24afe04aefe05638bce73cf4b44c04ff0a",
-      "signature": "MEUCICxsFyEPj5jPYNSIbn/67sRi64+x8h+CiBrB2kOVIOQ0AiEA4kSsgyekX4R1f/19ARLs/sEbsFLh5QbEhHCqNd+Bwq8="
+      "file": "CensorMD-Setup-v4.1.0.exe",
+      "size": 239521076,
+      "sha256": "56adca56691db714f68c841d05ab7dc5f8b0156e4df5888d13a48734f34d6a3b",
+      "signature": "MEYCIQDJLP5XRYKkJ+2RSq3MnYWwVyVUHmSc1oyG3FW/TLfmBAIhAM5vy6noedUr7V/8JVg3UsbIfu9nswfQNS9ypWAUXMwz"
     },
     "windows-portable": {
-      "file": "CensorMD-portable-v4.0.1.exe",
-      "size": 87144448,
-      "sha256": "70ed3a44a7542a13abcca9e3b431dede6f688c1ae47e6bcc2cd68c64c89b4753",
-      "signature": "MEQCIEERkgO3sjp3crj9EUpFssIjUBjL6cCQIQ1NZuAIeVKwAiAVdFuAqIWEJch/qgGiI89t9ggk9B5IvytyPpObl5rJrA=="
+      "file": "CensorMD-portable-v4.1.0.exe",
+      "size": 87142912,
+      "sha256": "709c75bd226b0e27f4f266ca99aa7e24f39995b9e694fb952fdda60020dab4d0",
+      "signature": "MEQCIDwr8+D9IObzxYmALrcre6xfXAhOUY3k6Q+dKL+A9P/GAiBH/aeoOP+whWsAAe5DHWFJA87DydcAa4vCeS6dbeEXRg=="
     }
   }
 }
