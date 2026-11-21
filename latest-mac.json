@@ -1,16 +1,15 @@
 {
-  "version": "3.0.1",
+  "version": "3.1.0",
   "published": "2026-11-21",
   "notes": [
-    "3.0.1: informes y resumen de lo aplicado de la auditoría",
-    "3.0.1: correcciones de seguridad y fiabilidad de la auditoría"
+    "3.1.0: «Censurar Documentos», formatos admitidos en la lista y reparto de la fila de abajo"
   ],
   "packages": {
     "mac": {
-      "file": "CensorMD-3.0.1-macOS13-arm64.zip",
-      "size": 167570190,
-      "sha256": "1e0638edb9fb62a2218f2b55f13d54c050bc43ebcb410b7f310f040ae2307332",
-      "signature": "MEYCIQCDVrW8t0vp1OxiJ9MF8V+9N6fuT6pLDY1PMI5nSLZcewIhAMP8T9fHGjy/RXluxMrKEITYZoxGSnmsG9UqvmoyT5mq"
+      "file": "CensorMD-3.1.0-macOS13-arm64.zip",
+      "size": 167574253,
+      "sha256": "70b7772e77fccbaa58e77e90cfc739069faa34f44c9b2d232515914e2fe62e35",
+      "signature": "MEQCICzoPVtGnrE9Y0qIghLk9VV/iPMgbCfHCceUyMU52P19AiA2CC+5hIafAqTcSIMixrxjjes/27cfqx08UJymyU/VGA=="
     }
   }
 }
