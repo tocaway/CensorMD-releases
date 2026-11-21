@@ -1,21 +1,22 @@
 {
-  "version": "4.2.2",
+  "version": "4.2.3",
   "published": "2026-11-21",
   "notes": [
-    "4.2.2: «Documentos compatibles» también en Markdown y HTML; ayuda sin barra de desplazamiento y, en Windows, centrada bajo el recuadro"
+    "4.2.3: «Documentos compatibles» es un botón entero en Windows, ayudas de Windows con el diseño de Mac y subtítulo corto en Markdown y HTML",
+    "4.2.3: «Documentos compatibles» se pulsa entero y las ayudas llevan el color de su pestaña"
   ],
   "packages": {
     "windows-setup": {
-      "file": "CensorMD-Setup-v4.2.2.exe",
-      "size": 239533364,
-      "sha256": "b1dd5df650e4d2e51ccf11e05d8f6941f26ccfe88fbb599ed74cf459951de924",
-      "signature": "MEQCICF4WlnZMAKmDwuxzlGMifBfTAmZlKzX0QVPNIA8ExHcAiA0lUi2pRBqHppSJ3tb4CkmFWdZUQqeDSBJfpxSSDQHEQ=="
+      "file": "CensorMD-Setup-v4.2.3.exe",
+      "size": 239529268,
+      "sha256": "99d90d60f46aafe5d2580dfd0c4a866827f01b70b8ebe11d42301b78058f944e",
+      "signature": "MEYCIQCldIEHgUDkx2/XMaSQFJv+QiRIuVLqe2LIuJSHDHfBhAIhAJiPc0ZlJZnvqFjHsBnfQdTW/7W07yH4mWa1pMxz0vQO"
     },
     "windows-portable": {
-      "file": "CensorMD-portable-v4.2.2.exe",
-      "size": 87152640,
-      "sha256": "798e7864451905981d22a5919214a301660d54617782229e6c9d9ba06d3886ea",
-      "signature": "MEUCIQD4qNTNhyiWyxvJH0SBlHCGgkgDYc9cqllgLIgCxTgFYwIgYxMwTlwsjGqY5KCqCji+KrPFeqc4e6xdAjObymjxWXs="
+      "file": "CensorMD-portable-v4.2.3.exe",
+      "size": 87148544,
+      "sha256": "faf306e90f8b800fabff5470fa7bc530e1174f4b7f938ee0ce7e8bf6c75eab33",
+      "signature": "MEUCIH/WoNxuxe08+mSSl8mWMMKDWjSdSh1z6rufxhUoQKTOAiEA4QsMkMT6jNgRvLCej+P7y/84rOyvX1nJvfO3xdzBOK8="
     }
   }
 }
