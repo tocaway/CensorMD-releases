@@ -1,15 +1,15 @@
 {
-  "version": "3.2.3",
+  "version": "3.2.4",
   "published": "2026-11-21",
   "notes": [
-    "3.2.3: «Documentos compatibles» se pulsa entero y las ayudas llevan el color de su pestaña"
+    "3.2.4: «Documentos compatibles» es un botón entero en Windows, ayudas de Windows con el diseño de Mac y subtítulo corto en Markdown y HTML"
   ],
   "packages": {
     "mac": {
-      "file": "CensorMD-3.2.3-macOS13-arm64.zip",
-      "size": 167603528,
-      "sha256": "93f9914bb142a7d0c9d14435cb122c3523bb6b46712eb8343acf6a035e264bcf",
-      "signature": "MEYCIQDY+MkJxpDgb8jsCGaxQ0kt0NfHgWyflPz32smJfpfBmgIhAP5Z8/gBLGtfXfAOjEBKiZC7U/7a0oC3a+oBZHJdIp9I"
+      "file": "CensorMD-3.2.4-macOS13-arm64.zip",
+      "size": 167603520,
+      "sha256": "84d270f55fdfb9153befc6562ee92767e2201a4c31c4b7fddba9049c656feaaa",
+      "signature": "MEUCIQClNA+2DoAQDPp0KDomjAuzX3f6nMCQvLQPFH3j5Z8SAgIgL5R2qgOhlrPaeCFlLfDivGSEYF0rJgaU07pw3DiSqvU="
     }
   }
 }
