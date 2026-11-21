@@ -1,15 +1,15 @@
 {
-  "version": "3.2.2",
+  "version": "3.2.3",
   "published": "2026-11-21",
   "notes": [
-    "3.2.2: «Documentos compatibles» también en Markdown y HTML; ayuda sin barra de desplazamiento y, en Windows, centrada bajo el recuadro"
+    "3.2.3: «Documentos compatibles» se pulsa entero y las ayudas llevan el color de su pestaña"
   ],
   "packages": {
     "mac": {
-      "file": "CensorMD-3.2.2-macOS13-arm64.zip",
-      "size": 167600926,
-      "sha256": "5ed161b1ee7df0cd0593ab7f2861f687a2bab4e61ab9d5dbe88e1bcb4a0dd786",
-      "signature": "MEYCIQCYlUM3FsGFdjt79FYaw11VWhlq95OvoRzdi2XvZogMLwIhAPBiPhVf65meoSApENJALPgeYjbz+OuM73D8sPhDfubN"
+      "file": "CensorMD-3.2.3-macOS13-arm64.zip",
+      "size": 167603528,
+      "sha256": "93f9914bb142a7d0c9d14435cb122c3523bb6b46712eb8343acf6a035e264bcf",
+      "signature": "MEYCIQDY+MkJxpDgb8jsCGaxQ0kt0NfHgWyflPz32smJfpfBmgIhAP5Z8/gBLGtfXfAOjEBKiZC7U/7a0oC3a+oBZHJdIp9I"
     }
   }
 }
