@@ -1,15 +1,15 @@
 {
-  "version": "3.2.1",
+  "version": "3.2.2",
   "published": "2026-11-21",
   "notes": [
-    "3.2.1: «Documentos compatibles» con su ⓘ en la fila de botones; la lista vacía ya no muestra los formatos"
+    "3.2.2: «Documentos compatibles» también en Markdown y HTML; ayuda sin barra de desplazamiento y, en Windows, centrada bajo el recuadro"
   ],
   "packages": {
     "mac": {
-      "file": "CensorMD-3.2.1-macOS13-arm64.zip",
-      "size": 167597118,
-      "sha256": "92d6c2252844d54f7f0f8a57f3902839244fe03b7ad5d102db20d24668214e09",
-      "signature": "MEYCIQC5aOTX7++HktVBLVIo83j0KBrxdJlNUpGfNtUDXOlp8wIhANOb8ma+9v1RtbHc0zm0/BH9O7CV7sqXdyv/ozckQZt6"
+      "file": "CensorMD-3.2.2-macOS13-arm64.zip",
+      "size": 167600926,
+      "sha256": "5ed161b1ee7df0cd0593ab7f2861f687a2bab4e61ab9d5dbe88e1bcb4a0dd786",
+      "signature": "MEYCIQCYlUM3FsGFdjt79FYaw11VWhlq95OvoRzdi2XvZogMLwIhAPBiPhVf65meoSApENJALPgeYjbz+OuM73D8sPhDfubN"
     }
   }
 }
