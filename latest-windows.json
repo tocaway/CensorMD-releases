@@ -1,21 +1,21 @@
 {
-  "version": "4.2.1",
+  "version": "4.2.2",
   "published": "2026-11-21",
   "notes": [
-    "4.2.1: «Documentos compatibles» con su ⓘ en la fila de botones; la lista vacía ya no muestra los formatos"
+    "4.2.2: «Documentos compatibles» también en Markdown y HTML; ayuda sin barra de desplazamiento y, en Windows, centrada bajo el recuadro"
   ],
   "packages": {
     "windows-setup": {
-      "file": "CensorMD-Setup-v4.2.1.exe",
-      "size": 239529268,
-      "sha256": "c4c0f2c18e373e369b57f3fc8a7cbc4ae38df6392be4be6221d8a8de4634b8b2",
-      "signature": "MEUCIQCccEhvQR1zihZFgPYf1NGSfeF/0MtW3+XLws8nbh3AZgIgSL+8DiNbDwbovasxIv32Lft7sfihEgdKKsh1ZH9b1FA="
+      "file": "CensorMD-Setup-v4.2.2.exe",
+      "size": 239533364,
+      "sha256": "b1dd5df650e4d2e51ccf11e05d8f6941f26ccfe88fbb599ed74cf459951de924",
+      "signature": "MEQCICF4WlnZMAKmDwuxzlGMifBfTAmZlKzX0QVPNIA8ExHcAiA0lUi2pRBqHppSJ3tb4CkmFWdZUQqeDSBJfpxSSDQHEQ=="
     },
     "windows-portable": {
-      "file": "CensorMD-portable-v4.2.1.exe",
-      "size": 87150592,
-      "sha256": "f81396d3d71441a665d3a9b2725a17c07f5e52b0b2943a0138462a97cfbfbb6d",
-      "signature": "MEUCIQDn+gOh/cijp8tvZkXKKM/IfhoM+SAsA6s3sm7CG9xlFgIgXT6eR9pFFWRzIWwGYG05nMn/dvguN97VYP1ibktMP2Y="
+      "file": "CensorMD-portable-v4.2.2.exe",
+      "size": 87152640,
+      "sha256": "798e7864451905981d22a5919214a301660d54617782229e6c9d9ba06d3886ea",
+      "signature": "MEUCIQD4qNTNhyiWyxvJH0SBlHCGgkgDYc9cqllgLIgCxTgFYwIgYxMwTlwsjGqY5KCqCji+KrPFeqc4e6xdAjObymjxWXs="
     }
   }
 }
