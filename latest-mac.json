@@ -1,15 +1,16 @@
 {
-  "version": "3.0.0",
-  "published": "2026-11-20",
+  "version": "3.0.1",
+  "published": "2026-11-21",
   "notes": [
-    "3.0.0: pestaña «Convertir a HTML» y censura de Word, Excel, PowerPoint y otros documentos"
+    "3.0.1: informes y resumen de lo aplicado de la auditoría",
+    "3.0.1: correcciones de seguridad y fiabilidad de la auditoría"
   ],
   "packages": {
     "mac": {
-      "file": "CensorMD-3.0.0-macOS13-arm64.zip",
-      "size": 167564155,
-      "sha256": "0237c9aeff9401eb9f55eece8d2afe7a8a9db4f4988a7fe1e9b27b415a5498fe",
-      "signature": "MEQCIEvz27zMnJngsw8ZodH8rQuyOnFeWPft5Nlgis/KYuJTAiA5s6GQsWxLbelaAYyKpi2mHRcdVqNNUiDX09MJ3cut1g=="
+      "file": "CensorMD-3.0.1-macOS13-arm64.zip",
+      "size": 167570190,
+      "sha256": "1e0638edb9fb62a2218f2b55f13d54c050bc43ebcb410b7f310f040ae2307332",
+      "signature": "MEYCIQCDVrW8t0vp1OxiJ9MF8V+9N6fuT6pLDY1PMI5nSLZcewIhAMP8T9fHGjy/RXluxMrKEITYZoxGSnmsG9UqvmoyT5mq"
     }
   }
 }
