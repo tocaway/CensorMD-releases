@@ -1,16 +1,15 @@
 {
-  "version": "3.2.0",
+  "version": "3.2.1",
   "published": "2026-11-21",
   "notes": [
-    "3.2.0: informes y comprobación del manual en la prueba de pantallas",
-    "3.2.0: resumen final por documento, manual «Qué sale de cada documento» y «Usar desde un USB»"
+    "3.2.1: «Documentos compatibles» con su ⓘ en la fila de botones; la lista vacía ya no muestra los formatos"
   ],
   "packages": {
     "mac": {
-      "file": "CensorMD-3.2.0-macOS13-arm64.zip",
-      "size": 167598131,
-      "sha256": "6cdca5b07ce8b3383b036f2a87406408aee4fa5b9a87667591e6703daa61c13a",
-      "signature": "MEUCIDaDob+nt9dhjOAVBBdFNFs7wuKGxeUY49+XtnmBR/mlAiEAuvCRlreDMqkTfLqEVoglfU3OqQJrGTVCniT23udkn78="
+      "file": "CensorMD-3.2.1-macOS13-arm64.zip",
+      "size": 167597118,
+      "sha256": "92d6c2252844d54f7f0f8a57f3902839244fe03b7ad5d102db20d24668214e09",
+      "signature": "MEYCIQC5aOTX7++HktVBLVIo83j0KBrxdJlNUpGfNtUDXOlp8wIhANOb8ma+9v1RtbHc0zm0/BH9O7CV7sqXdyv/ozckQZt6"
     }
   }
 }
