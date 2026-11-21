@@ -1,21 +1,22 @@
 {
-  "version": "4.1.0",
+  "version": "4.2.0",
   "published": "2026-11-21",
   "notes": [
-    "4.1.0: «Censurar Documentos», formatos admitidos en la lista y reparto de la fila de abajo"
+    "4.2.0: informes y comprobación del manual en la prueba de pantallas",
+    "4.2.0: resumen final por documento, manual «Qué sale de cada documento» y «Usar desde un USB»"
   ],
   "packages": {
     "windows-setup": {
-      "file": "CensorMD-Setup-v4.1.0.exe",
-      "size": 239521076,
-      "sha256": "56adca56691db714f68c841d05ab7dc5f8b0156e4df5888d13a48734f34d6a3b",
-      "signature": "MEYCIQDJLP5XRYKkJ+2RSq3MnYWwVyVUHmSc1oyG3FW/TLfmBAIhAM5vy6noedUr7V/8JVg3UsbIfu9nswfQNS9ypWAUXMwz"
+      "file": "CensorMD-Setup-v4.2.0.exe",
+      "size": 239529268,
+      "sha256": "d3fa330507d815506ac3971d0ea04f27bbee904cfae72d555e99a506feb1ec7b",
+      "signature": "MEYCIQCxGGzqliOY5OSurCuiH4MJjg1pxZ8nVSZlPN3QED0zaQIhAODqEvRuHywsT2pPL10bsgsLF60GeOeeuqBNzGnzW96B"
     },
     "windows-portable": {
-      "file": "CensorMD-portable-v4.1.0.exe",
-      "size": 87142912,
-      "sha256": "709c75bd226b0e27f4f266ca99aa7e24f39995b9e694fb952fdda60020dab4d0",
-      "signature": "MEQCIDwr8+D9IObzxYmALrcre6xfXAhOUY3k6Q+dKL+A9P/GAiBH/aeoOP+whWsAAe5DHWFJA87DydcAa4vCeS6dbeEXRg=="
+      "file": "CensorMD-portable-v4.2.0.exe",
+      "size": 87150080,
+      "sha256": "d43063d89c1e380405808a17c8e0bd0fc90349cbc8af3789a59f0e52ef3b6a2e",
+      "signature": "MEUCIQDmYRwXChIbVCqtk13fjvduXGkN7RhIL1/75Rv6IYuqxwIgW0/rz4zLFIank9cfR27E1Ku+MR5bpN3YwLoXo8qVPik="
     }
   }
 }
