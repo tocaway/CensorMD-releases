@@ -1,15 +1,15 @@
 {
-  "version": "3.2.4",
+  "version": "3.2.5",
   "published": "2026-11-21",
   "notes": [
-    "3.2.4: «Documentos compatibles» es un botón entero en Windows, ayudas de Windows con el diseño de Mac y subtítulo corto en Markdown y HTML"
+    "3.2.5: «Borrar todo» centrado en «Nombres manuales» (nuevo en Windows), botones con los nombres de Mac y «Ejecutar censura» de Windows igual que en Mac"
   ],
   "packages": {
     "mac": {
-      "file": "CensorMD-3.2.4-macOS13-arm64.zip",
-      "size": 167603520,
-      "sha256": "84d270f55fdfb9153befc6562ee92767e2201a4c31c4b7fddba9049c656feaaa",
-      "signature": "MEUCIQClNA+2DoAQDPp0KDomjAuzX3f6nMCQvLQPFH3j5Z8SAgIgL5R2qgOhlrPaeCFlLfDivGSEYF0rJgaU07pw3DiSqvU="
+      "file": "CensorMD-3.2.5-macOS13-arm64.zip",
+      "size": 167603682,
+      "sha256": "fb3a3fe7fa761a49b0204697a0b4390d61413885cc9edcad3c715cb21ffe2649",
+      "signature": "MEUCIF1d0Dy2eOWuTqpLZVQEv3tRLRGAfHd1Ylm/znsQHMiVAiEA58FKNpFyUpQH36F5TwZ2+wWaIknvwbyqPMisS0vPoEA="
     }
   }
 }
