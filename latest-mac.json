@@ -1,15 +1,16 @@
 {
-  "version": "3.1.0",
+  "version": "3.2.0",
   "published": "2026-11-21",
   "notes": [
-    "3.1.0: «Censurar Documentos», formatos admitidos en la lista y reparto de la fila de abajo"
+    "3.2.0: informes y comprobación del manual en la prueba de pantallas",
+    "3.2.0: resumen final por documento, manual «Qué sale de cada documento» y «Usar desde un USB»"
   ],
   "packages": {
     "mac": {
-      "file": "CensorMD-3.1.0-macOS13-arm64.zip",
-      "size": 167574253,
-      "sha256": "70b7772e77fccbaa58e77e90cfc739069faa34f44c9b2d232515914e2fe62e35",
-      "signature": "MEQCICzoPVtGnrE9Y0qIghLk9VV/iPMgbCfHCceUyMU52P19AiA2CC+5hIafAqTcSIMixrxjjes/27cfqx08UJymyU/VGA=="
+      "file": "CensorMD-3.2.0-macOS13-arm64.zip",
+      "size": 167598131,
+      "sha256": "6cdca5b07ce8b3383b036f2a87406408aee4fa5b9a87667591e6703daa61c13a",
+      "signature": "MEUCIDaDob+nt9dhjOAVBBdFNFs7wuKGxeUY49+XtnmBR/mlAiEAuvCRlreDMqkTfLqEVoglfU3OqQJrGTVCniT23udkn78="
     }
   }
 }
